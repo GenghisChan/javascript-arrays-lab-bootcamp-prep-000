@@ -24,8 +24,7 @@ function appendKitten(name){
 }
 
 function removeLastKitten(){
- var newKittens = kittens.slice(-1)
- return newKittens
+  return kittens.slice(-1)
 }
 
 function removeFirstKitten(){
