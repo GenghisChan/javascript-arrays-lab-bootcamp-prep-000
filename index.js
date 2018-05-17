@@ -1,3 +1,5 @@
 const app = "I don't do much."
 
-let kittens = [""]
+let kittens = ["Milo", "Otis", "Garfield"]
+
+kittens
